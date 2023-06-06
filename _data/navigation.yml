@@ -1,14 +1,14 @@
 - title: Start
   url: "/"
-  side: center
+ 
 
 - title: Getting Started
   url: "/getting-started/"
-  side: center
+ 
 
 - title: "Templates"
   url: "/design/"
-  side: center
+
   dropdown:
   - title: "Grid & Colors"
     url: "/design/grid/"
@@ -33,7 +33,7 @@
 
 - title: "Header Styles"
   url: "/headers/"
-  side: center
+ 
   dropdown:
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
@@ -52,7 +52,7 @@
 
 - title: Documentation
   url: "/documentation/"
-  side: center
+ 
   dropdown:
   - title: "Changelog"
     url: "/changelog/"
