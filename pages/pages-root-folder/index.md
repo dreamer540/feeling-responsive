@@ -5,8 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: images/gallery-example-8.jpg
+# header:
+#  image_fullwidth: images/gallery-example-8.jpg
 widget1:
   title: "ASMR"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
